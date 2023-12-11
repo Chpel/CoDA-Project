@@ -1,0 +1,7 @@
+
+*.out
+*.pdf
+*.gz
+*.aux
+*.log
+.ipynb_checkpoints/Wine-checkpoint.ipynb
